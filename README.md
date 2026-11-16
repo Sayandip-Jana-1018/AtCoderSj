@@ -39,7 +39,7 @@ abc{N}_{x}-{slug}/
 
 | Platform | Repository |
 |----------|------------|
-| LeetCode | [LeetSj](https://github.com/Sayandip-Jana-1018/LeetSj) |
+| LeetCode | [LeetCodeSj](https://github.com/Sayandip-Jana-1018/LeetCodeSj) |
 | Codeforces | [CodeforcesSj](https://github.com/Sayandip-Jana-1018/CodeforcesSj) |
 | AtCoder | **AtCoderSj** (you are here) |
 | CodeChef | [CodeChefSj](https://github.com/Sayandip-Jana-1018/CodeChefSj) |
