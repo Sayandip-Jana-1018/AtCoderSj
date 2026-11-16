@@ -24,16 +24,15 @@ Each day brings one unsolved problem from past AtCoder Beginner Contests, picked
 <!-- SOLUTIONS:START -->
 | # | Date | Problem | Difficulty | Tags | Solution |
 |---|------|---------|------------|------|----------|
+| 1 | 2026-11-16 | [ABC302 D · Impartial Gift](https://atcoder.jp/contests/abc302/tasks/abc302_d) | ~680 | sorting, binary search | [Guide + Java](./abc302_d-impartial-gift) |
 <!-- SOLUTIONS:END -->
-
-_The first solution lands on the next daily run._
 
 ## Folder layout
 
 ```
 abc{N}_{x}-{slug}/
-├── solution.java
-└── README.md
+├── Main.java     (accepted Java solution)
+└── README.md     (problem, intuition, brute → optimal, dry run, complexity)
 ```
 
 ## The Sj family
