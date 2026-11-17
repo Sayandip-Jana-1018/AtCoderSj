@@ -25,6 +25,7 @@ Each day brings one unsolved problem from past AtCoder Beginner Contests, picked
 | # | Date | Problem | Difficulty | Tags | Solution |
 |---|------|---------|------------|------|----------|
 | 1 | 2026-11-16 | [ABC302 D · Impartial Gift](https://atcoder.jp/contests/abc302/tasks/abc302_d) | ~680 | sorting, binary search | [Guide + Java](./abc302_d-impartial-gift) |
+| 2 | 2026-11-17 | [ABC414 D · Transmission Mission](https://atcoder.jp/contests/abc414/tasks/abc414_d) | ~841 | greedy, sorting | [Guide + Java](./abc414_d-transmission-mission) |
 <!-- SOLUTIONS:END -->
 
 ## Folder layout
